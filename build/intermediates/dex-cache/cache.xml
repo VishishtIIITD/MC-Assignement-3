@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_06a80ec81b38557e6d267a38eb37911785404bcb.jar" />
+    </item>
+    <item
+        jar="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_2bf368e05e64974e3575e427923c967781538dad.jar" />
+    </item>
+    <item
+        jar="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_82ca56bbb8ef1824bea00b04a02a1dac52cc3fb2.jar" />
+    </item>
+    <item
+        jar="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_ad7dfd60c14970d0a4f0d070992f301b4254a1d3.jar" />
+    </item>
+    <item
+        jar="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_271409cf6371fe6ed674ebd9be3783ddd72bcf6d.jar" />
+    </item>
+    <item
+        jar="/Users/Vishisht/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_b7c97c2b12f3df2919b73973fbb5ab6813a59a64.jar" />
+    </item>
+
+</items>
