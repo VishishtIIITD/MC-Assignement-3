@@ -3,6 +3,7 @@ package iiitd.vishisht.favouritecontacts;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -14,6 +15,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -154,7 +156,9 @@ public class MainActivity extends AppCompatActivity {
     public void onActivityResult(int requestCode, int resultCode, Intent intent) {
         SharedPreferences sharedPref = getPreferences(Context.MODE_PRIVATE);
         int sort_order = sharedPref.getInt(getString(R.string.sort_order), defaultValue);
+
         super.onActivityResult(requestCode, resultCode, intent);
+
         if (requestCode == 1 && resultCode == RESULT_OK) {
 
             months.add(intent.getStringExtra("name"));
@@ -228,4 +232,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
+
 }
