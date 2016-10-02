@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavouriteContacts</string>
+    <string name="sort_order">sortOrder</string>
+</resources>
