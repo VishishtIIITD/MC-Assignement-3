@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="52733380074606"
+    token="7657912965027031794" >
+
+    <task
+        name="javac"
+        duration="610" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="103" />
+    <task
+        name="verifier"
+        duration="41" />
+
+    <artifact
+        location="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build timestamp="52568753537855" >
+        <artifact
+            location="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="52733380074606" >
+        <artifact
+            location="/Users/Vishisht/AndroidStudioProjects/FavouriteContacts/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
